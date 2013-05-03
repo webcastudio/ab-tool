@@ -5,7 +5,7 @@ var test = new AB({
 	delay: 0,
 	requests: 1,
 	concurrency: 1,
-	host: 'http://www.carlosgalancladera.net/'
+	host: 'http://pulldev.webcasting-studio.net/'
 });
 test.on('error', function (error){
 	console.log('Test error: '+error);

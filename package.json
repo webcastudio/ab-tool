@@ -1,6 +1,6 @@
 {
   "name": "ab-tool",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A extension of Apache HTTP Benchmarking tool for Node.js",
   "keywords": [ "ab", "apache", "http", "test", "web" ],
   "author": "Carles Galan Cladera <cgcladera@gmail.com>",
