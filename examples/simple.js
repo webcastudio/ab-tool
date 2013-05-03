@@ -5,7 +5,7 @@ var test = new AB({
 	delay: 0,
 	requests: 2000,
 	concurrency: 20,
-	host: 'http://pulldev.webcasting-studio.net/?s=questions&part_id=588'
+	host: 'http://www.carlosgalancladera.net/'
 });
 test.on('error', function (error){
 	console.log(error);
